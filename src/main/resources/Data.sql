@@ -1,0 +1,10 @@
+insert into user values(101,'sprucecourt','niv@gmail.com','Nivi');
+insert into user values(102,'Roadcourt','abc@gmail.com','Tanu');
+insert into user values(103,'Jackcourt','san@gmail.com','Sankar');
+insert into user values(104,'sprucecourt','sam@gmail.com','Sam');
+insert into book values(200,'Rhonda byrine','Secret',101);
+insert into book values(201,'Preeti','Lifeis what you make it',102);
+insert into book values(202,'chetan','5 point someone',Null);
+insert into event values(500,TO_DATE( '2-DEC-2006', 'DD-MON-YYYY' ) ,'Children Story Reading',16.00);
+insert into event values(501,TO_DATE( '23-MAY-2021', 'DD-MON-YYYY' ) ,'Kids chess competition',16.00);
+insert into event values(502,TO_DATE( '21-DEC-2020', 'DD-MON-YYYY' ) ,'Influential Speaking',16.00);
